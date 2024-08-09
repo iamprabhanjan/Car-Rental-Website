@@ -26,4 +26,4 @@ To run the Car Rental Website locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/iamprabhanjan/car-rental-website.git
+   git clone https://github.com/iamprabhanjan/Car-Rental-Website.git
