@@ -266,7 +266,7 @@ $conn = Connect();
             });
         };
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCuoe93lQkgRaC7FB8fMOr_g1dmMRwKng&callback=myMap" type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=" type="text/javascript"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <!-- Plugin JavaScript -->
