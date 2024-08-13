@@ -217,7 +217,7 @@
         <hr>
         <div class="row">
             <div class="col-sm-6">
-                <h5>© 2024 Abhiram Hatwar</h5>
+                <h5>© 2024 Prabhanjan R</h5>
             </div>
         </div>
     </div>
